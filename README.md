@@ -1,5 +1,4 @@
-# Manula-Testing-projects-
-Manual test cases for Gmail and an e-commerce (OpenCart) application — covering functional, negative, and boundary testing with documented defects.
+
 # Manual Testing Projects
 
 Hi, I'm Poojitha Bathala — a Computer Science graduate currently building hands-on 
