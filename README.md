@@ -24,7 +24,7 @@ demo site, covering the full user journey from registration to checkout.
 - **Modules tested:** Registration, Profile Management, Search, Cart, Checkout & Payment
 - **Test cases:** 25, covering positive, negative, and boundary scenarios
 - **Defects found:** 2, documented with severity, priority, and steps to reproduce
-- File: `OpenCart_Ecommerce_Testing.xlsx` (includes a separate Defect Report sheet)
+- File: `openCart_Ecommerce_Testing.xlsx` (includes a separate Defect Report sheet)
 
 ## Test Case Format
 Each sheet includes: Test ID, Description, Steps, Test Data, Pre-condition, 
